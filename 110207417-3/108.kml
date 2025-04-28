@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+  <name>108out\108.kml</name>
+  <Style id="DownArrow">
+     <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon28.png</href>
+                </Icon><scale>0.6</scale></IconStyle></Style>
+  <Style id="UpArrow">
+     <IconStyle><Icon><href>UpArrow.png</href>
+                </Icon><scale>1.0</scale></IconStyle></Style>
+   <Folder>
+     <name>Placemarks</name>
+     <description>108out\108.kml</description>
+     <Placemark>
+       <name>190105g_40 0001</name>
+       <description>(249640, 2694280, 5199)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.996522,24.354549,5199.810059</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0002</name>
+       <description>(249620, 2693590, 5200)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.996288,24.348301,5200.011230</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0003</name>
+       <description>(249630, 2692900, 5199)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.996418,24.342046,5199.773926</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0004</name>
+       <description>(249650, 2692210, 5199)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.996551,24.335804,5199.705078</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0005</name>
+       <description>(249630, 2691520, 5200)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.996364,24.329547,5200.300781</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0006</name>
+       <description>(249600, 2690820, 5201)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.996121,24.323296,5201.148926</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0007</name>
+       <description>(249580, 2690130, 5199)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995875,24.317051,5199.166016</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0008</name>
+       <description>(249560, 2689440, 5197)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995728,24.310792,5197.775879</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0009</name>
+       <description>(249560, 2688750, 5198)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995686,24.304550,5198.201172</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0010</name>
+       <description>(249560, 2688050, 5199)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995716,24.298300,5199.210938</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0011</name>
+       <description>(249550, 2687360, 5198)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995661,24.292044,5198.855957</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0012</name>
+       <description>(249540, 2686670, 5197)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995511,24.285796,5197.956055</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0013</name>
+       <description>(249540, 2685980, 5197)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995543,24.279541,5197.349121</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0014</name>
+       <description>(249550, 2685290, 5198)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995609,24.273300,5198.070801</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0015</name>
+       <description>(249550, 2684590, 5199)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995587,24.267048,5199.603027</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0016</name>
+       <description>(249540, 2683900, 5200)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995514,24.260805,5200.382813</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0017</name>
+       <description>(249530, 2683210, 5199)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995446,24.254547,5199.732910</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0018</name>
+       <description>(249540, 2682520, 5196)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995476,24.248303,5196.801758</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0019</name>
+       <description>(249550, 2681820, 5194)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995570,24.242045,5194.666992</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0020</name>
+       <description>(249560, 2681130, 5195)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995678,24.235804,5195.573242</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0021</name>
+       <description>(249560, 2680440, 5197)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995701,24.229544,5197.311035</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0022</name>
+       <description>(249560, 2679750, 5196)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995674,24.223294,5196.561035</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0023</name>
+       <description>(249550, 2679060, 5197)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995596,24.217052,5197.558105</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0024</name>
+       <description>(249540, 2678360, 5197)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995494,24.210794,5197.896973</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_40 0025</name>
+       <description>(249530, 2677670, 5197)</description>
+       <styleUrl>#DownArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>120.995386,24.204551,5197.973145</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0051</name>
+       <description>(252050, 2674910, 5198)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020198,24.179575,5198.795898</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0052</name>
+       <description>(252050, 2675600, 5199)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020231,24.185827,5199.535156</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0053</name>
+       <description>(252070, 2676290, 5200)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020452,24.192082,5200.022949</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0054</name>
+       <description>(252110, 2676980, 5199)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020798,24.198323,5199.377930</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0055</name>
+       <description>(252130, 2677670, 5198)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.021049,24.204567,5198.623047</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0056</name>
+       <description>(252140, 2678370, 5197)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.021099,24.210828,5197.450195</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0057</name>
+       <description>(252120, 2679060, 5197)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020954,24.217071,5197.966797</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0058</name>
+       <description>(252100, 2679750, 5198)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020702,24.223331,5198.560059</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0059</name>
+       <description>(252090, 2680440, 5198)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020669,24.229583,5198.145996</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0060</name>
+       <description>(252100, 2681140, 5197)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020737,24.235826,5197.148926</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0061</name>
+       <description>(252100, 2681830, 5197)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020727,24.242066,5197.103027</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0062</name>
+       <description>(252090, 2682520, 5198)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020622,24.248328,5198.506836</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0063</name>
+       <description>(252080, 2683210, 5199)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020565,24.254570,5199.428223</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0064</name>
+       <description>(252080, 2683900, 5200)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020580,24.260828,5200.036133</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0065</name>
+       <description>(252090, 2684600, 5199)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020644,24.267079,5199.543945</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0066</name>
+       <description>(252090, 2685290, 5198)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020684,24.273324,5198.367188</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0067</name>
+       <description>(252100, 2685980, 5198)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020690,24.279581,5198.675781</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0068</name>
+       <description>(252090, 2686670, 5198)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020633,24.285824,5198.137207</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0069</name>
+       <description>(252070, 2687370, 5195)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020479,24.292086,5195.030762</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0070</name>
+       <description>(252050, 2688060, 5193)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020288,24.298330,5193.604980</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0071</name>
+       <description>(252040, 2688750, 5194)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020179,24.304577,5194.766113</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0072</name>
+       <description>(252050, 2689440, 5197)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020205,24.310833,5197.022949</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0073</name>
+       <description>(252060, 2690130, 5197)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020302,24.317076,5197.591797</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0074</name>
+       <description>(252070, 2690830, 5196)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020433,24.323333,5196.424805</coordinates></Point>
+     </Placemark>
+     <Placemark>
+       <name>190105g_41 0075</name>
+       <description>(252080, 2691520, 5196)</description>
+       <styleUrl>#UpArrow</styleUrl>
+       <Point><altitudeMode>absolute</altitudeMode>
+              <coordinates>121.020546,24.329577,5196.601074</coordinates></Point>
+     </Placemark>
+   </Folder>
+  </Document>
+</kml>
